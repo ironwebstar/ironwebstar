@@ -2,7 +2,8 @@
 
 ## Welcome
 
-![ironwebstar's github stats](https://github-readme-stats.vercel.app/api?username=ironwebstar&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+[![Ironwebstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ironwebstar&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/ironwebstar/github-readme-stats)
+
 ![ironwebstar's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwebstar&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 ### Highlights
